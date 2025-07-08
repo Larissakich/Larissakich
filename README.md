@@ -1,159 +1,140 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Joshua Juliasse
 
-**`Desenvolvedora FullStack`**
+**`Analista Júnior de Cibersegurança`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Sou estudante de Tecnologia em Cibersegurança no Centro Universitário Anhanguera, onde venho desenvolvendo sólidos conhecimentos em áreas fundamentais como Segurança da Informação e Redes, Segurança em Engenharia de Software, Arquitetura de Redes e Programação e Desenvolvimento de Banco de Dados.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Além disso, estou aprimorando minhas habilidades técnicas por meio do curso de Analista de Cibersegurança da CISCO, no qual já concluí os módulos de Introdução à Cibersegurança e Conceitos Básicos de Redes. Atualmente, estou aprofundando meu aprendizado em Dispositivos de Rede e Configuração Inicial, e, ao final do curso, receberei o certificado de Analista de Cibersegurança, uma certificação reconhecida e valorizada no mercado.
 
----
+Meu foco é aplicar esses conhecimentos para solucionar desafios reais, especialmente nas áreas descritas na vaga, como Threat Intelligence, Pentest e Security Technology Management (STM). Tenho experiência acadêmica na análise e desenvolvimento de soluções seguras, bem como em boas práticas de governança de segurança e proteção de dados.
+
+Estou motivado a contribuir com a empresa, trazendo uma abordagem analítica e prática para fortalecer a proteção de sistemas e redes contra ameaças cibernéticas. Vejo essa oportunidade como um passo essencial para consolidar minha carreira como analista de cibersegurança.
+
 
 ### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Linux" 
+    title="Linux" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Bash" 
+    title="Bash Script" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Python" 
+    title="Python (scripts, automações)" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="SQL" 
+    title="SQL (Consulta e Auditoria de Dados)" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Excel" 
+    title="Microsoft Excel (Dashboards, Análise)" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.simpleicons.org/microsoftexcel/217346" 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Markdown" 
+    title="Markdown (Documentação)" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.simpleicons.org/markdown/000000" 
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Splunk" 
+    title="Splunk (SIEM - Análise de Logs)" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.simpleicons.org/splunk/000000" 
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Wireshark" 
+    title="Wireshark (Análise de Pacotes)" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.simpleicons.org/wireshark/1679A7" 
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="Nmap" 
+    title="Nmap (Varredura de portas, rede)" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+    src="https://cdn.simpleicons.org/nmap/000000" 
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Cisco" 
+    title="Cisco Networking" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.simpleicons.org/cisco/1BA0D7" 
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Parrot OS" 
+    title="Parrot OS (Segurança ofensiva e forense)" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.simpleicons.org/parrotsecurity/2CCCB7" 
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="Kali Linux" 
+    title="Kali Linux (Pentest OS)" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://cdn.simpleicons.org/kalilinux/557C94" 
+/>
+<img 
+    align="left" 
+    alt="VS Code" 
+    title="Visual Studio Code (Editor)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 <img 
     align="left" 
     alt="Git" 
-    title="Git"
+    title="Git (Controle de versão)" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Notion" 
+    title="Notion (Documentação e organização)" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.simpleicons.org/notion/000000" 
 />
 
-<br/>
-<br/>
+<br/><br/>
 
 ### 📊 Estatísticas
 
