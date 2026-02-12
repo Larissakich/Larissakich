@@ -1,176 +1,115 @@
-# 👩🏻‍💻 Larissa Kich
+# 👨🏻‍💻 Gustavo Santos Abdo
 
-**`Desenvolvedora FullStack`**
+**Desenvolvedor em formação | Auxiliar de Contabilidade | Tecnologia aplicada a Finanças e Sistemas Corporativos**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
-
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+📍 Brasil  
+📧 gugugastavoabdo@gmail.com  
+🔗 www.linkedin.com/in/gustavo-abdo-2bb4212b5  
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 👋 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Tenho 20 anos e estou no **último ano de Análise e Desenvolvimento de Sistemas**.
 
-<br/>
-<br/>
+Atualmente atuo como **Auxiliar de Contabilidade**, trabalhando diretamente com rotinas financeiras, controle de dados, relatórios, conferências e organização de processos empresariais.
 
-### 📊 Estatísticas
+Estou em transição de carreira para **Desenvolvimento de Software**, com foco em **áreas financeiras, bancos e fintechs**, unindo minha experiência contábil com tecnologia para criar sistemas mais eficientes, automatizados e orientados a dados.
+
+Possuo forte base em **lógica, análise numérica, organização, automação de processos e banco de dados**, habilidades essenciais para sistemas financeiros e corporativos.
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como **Desenvolvedor Júnior / Estagiário em Tecnologia**, preferencialmente em:
+
+- Bancos e instituições financeiras
+- Fintechs
+- Sistemas de gestão empresarial
+- Soluções de dados e automação financeira
+
+---
+
+## 💼 Experiência Profissional
+
+### Auxiliar de Contabilidade
+**Atuação corporativa na área financeira**
+
+Principais responsabilidades:
+
+- Controle e conferência de lançamentos financeiros
+- Organização de relatórios contábeis e demonstrativos
+- Controle de estoque e custos
+- Análise de dados financeiros em Excel
+- Automação de planilhas e processos internos
+- Apoio em rotinas administrativas e fiscais
+- Tratamento e organização de grandes volumes de dados
+
+📌 Essa experiência me proporcionou:
+- visão de negócios
+- pensamento analítico
+- atenção a detalhes
+- tomada de decisão baseada em dados
+- entendimento real de processos financeiros
+
+---
+
+## 🚀 Projetos e Interesses
+
+- Sistema de Gestão para Restaurantes (estoque, pedidos, app mobile)
+- Controle hospitalar de consumo de pacientes
+- Automação de relatórios e planilhas no Excel
+- Migração de aplicações HTML/CSS/JS para Angular
+- Estudos em Banco de Dados, Procedures, Triggers e NoSQL
+- Aplicações com Inteligência Artificial
+
+---
+
+## 🤖 Tecnologias e Competências
+
+### Linguagens
+- Java
+- JavaScript
+- Python
+- HTML
+- SQL
+
+### Desenvolvimento Web
+- Angular
+- TypeScript
+- CSS
+- APIs REST
+
+### Dados & Back-end
+- MySQL
+- SQL Server
+- Modelagem de Banco de Dados
+- Procedures, Triggers e Índices
+
+### Outras habilidades
+- Lógica de programação
+- Inteligência Artificial 
+- Git & GitHub
+
+---
 
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" 
   />
-
 </p>
+
+---
+
+## 📫 Contato
+
+📧 gugugastavoabdo@gmail.com  
+🔗 www.linkedin.com/in/gustavo-abdo-2bb4212b5
